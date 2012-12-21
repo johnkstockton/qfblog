@@ -1,1 +1,1 @@
-### qfblog
+# DEPRECATED
